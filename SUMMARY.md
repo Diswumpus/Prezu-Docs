@@ -5,7 +5,7 @@
 
 ## ⭐ Starting
 
-* [🎉 Creating your first giveaway](starting/emojis.md)
+* [🎉 Creating your first giveaway](features/emojis.md)
 
 ## ❓ FAQ
 

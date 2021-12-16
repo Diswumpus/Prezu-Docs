@@ -20,7 +20,7 @@ To invite the bot use [this ](https://discord.com/oauth2/authorize?client\_id=92
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="starting/emojis.md" %}
-[emojis.md](starting/emojis.md)
+{% content-ref url="features/emojis.md" %}
+[emojis.md](features/emojis.md)
 {% endcontent-ref %}
 
