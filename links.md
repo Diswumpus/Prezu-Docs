@@ -1,8 +1,9 @@
 # 🔗 Links
 
 * [Support Server](https://discord.gg/Jd5BE3ew4G)
-* [Bot Invite](https://discord.com/api/oauth2/authorize?client\_id=891109752078213172\&scope=applications.commands+bot\&permissions=8)
-* Dashboard (Coming Soon)
+* [Bot Invite](https://discord.com/oauth2/authorize?client\_id=920846797797228574\&permissions=347201\&redirect\_uri=https%3A%2F%2Fg.trtle.xyz%2F\&response\_type=code\&scope=applications.builds.read%20applications.commands%20bot)
+
+
 
 ![](.gitbook/assets/invite.svg)
 

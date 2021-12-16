@@ -1,26 +1,26 @@
 # 👋 Welcome
 
-Welcome to the official **Pepperbot** docs! Here you can learn how to get started with Pepperbot and how to use Pepperbot!
+Welcome to the official **Prezu** docs! Here you can learn how to get started with Prezu and how to use Prezu!
 
 {% hint style="info" %}
-To invite the bot use [this ](https://discord.com/api/oauth2/authorize?client\_id=891109752078213172\&scope=applications.commands+bot\&permissions=8)link!
+To invite the bot use [this ](https://discord.com/oauth2/authorize?client\_id=920846797797228574\&permissions=347201\&redirect\_uri=https%3A%2F%2Fg.trtle.xyz%2F\&response\_type=code\&scope=applications.builds.read%20applications.commands%20bot)link!
 {% endhint %}
 
 ### Guides:
 
-{% content-ref url="features/tickets.md" %}
-[tickets.md](features/tickets.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="features/embeds.md" %}
-[embeds.md](features/embeds.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="features/sticky-messages.md" %}
-[sticky-messages.md](features/sticky-messages.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="features/emojis.md" %}
-[emojis.md](features/emojis.md)
+{% content-ref url="starting/emojis.md" %}
+[emojis.md](starting/emojis.md)
 {% endcontent-ref %}
 

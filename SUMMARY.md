@@ -3,12 +3,9 @@
 * [👋 Welcome](README.md)
 * [🔗 Links](links.md)
 
-## ⭐ Features
+## ⭐ Starting
 
-* [🎫 Tickets](features/tickets.md)
-* [🖼 Embeds](features/embeds.md)
-* [💬 Sticky Messages](features/sticky-messages.md)
-* [😄 Emojis](features/emojis.md)
+* [🎉 Creating your first giveaway](starting/emojis.md)
 
 ## ❓ FAQ
 
