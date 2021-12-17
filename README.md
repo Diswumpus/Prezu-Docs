@@ -8,18 +8,6 @@ To invite the bot use [this ](https://discord.com/oauth2/authorize?client\_id=92
 
 ### Guides:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="features/emojis.md" %}
 [emojis.md](features/emojis.md)
 {% endcontent-ref %}
